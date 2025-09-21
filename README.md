@@ -1,2 +1,3 @@
-# Coursework
-Python coursework from CS first year
+# Python projects
+All my python coded projects that i have developed myself
+
